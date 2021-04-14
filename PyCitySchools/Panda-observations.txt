@@ -1,0 +1,2 @@
+- Schools that spent the least amount money per student had the highest overall percentage of students passing both math and reading. 
+- The largest schools interms of student population tended to have the lowest percentage of students passing both reading and math. 
